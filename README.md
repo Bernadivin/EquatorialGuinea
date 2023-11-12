@@ -1,0 +1,2 @@
+# EquatorialGuinea
+Equatorial Guinea
