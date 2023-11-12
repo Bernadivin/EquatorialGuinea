@@ -1,2 +1,2 @@
 # EquatorialGuinea
-Equatorial Guinea
+{"categorieGuE":[{"name":"Movies","videos":[{"descriptionGuE":"TVGE est une télévision basée à Conakry dans la commune de Matoto Kondeboungny au bord de l'autoroute Fidèle Castro (République de Guinée). La télé diffuse des informations du pays et du monde en temps réel. Des magazines axés sur les réalités des terroirs et des séries de divertissement. Détenue par le groupe Hadafo Médias, cette chaîne est la première du pays en terme d'audience, selon le rapport de Stat view international en 2019","sourceGuE":["http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODM0MzU3ODFf/Tvge.png","titleGuE":"TVGE"}]}]}
